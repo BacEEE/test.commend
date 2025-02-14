@@ -1,0 +1,100 @@
+  912  2025-02-14 00:29:59 cd R
+  913  2025-02-14 00:30:00 ll
+  914  2025-02-14 01:00:56 l
+  915  2025-02-14 01:18:33 ll
+  916  2025-02-14 01:20:47 la
+  917  2025-02-10 16:49:31 python /home/naikew/.vscode-server/extensions/ms-python.python-2025.0.0/python_files/printEnvVariablesToFile.py /home/naikew/.vscode-server/extensions/ms-python.python-2025.0.0/python_files/deactivate/bash/envVars.txt
+  918  2025-02-10 15:50:43 python /home/naikew/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/naikew/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  919  2025-02-14 14:16:11 l
+  920  2025-02-14 14:16:14 cd ..
+  921  2025-02-14 14:16:15 ll
+  922  2025-02-14 14:16:25 ls 01.KeyProcessFiles-UploadGitHub/
+  923  2025-02-14 14:16:33 md SNPMatrix/
+  924  2025-02-14 14:20:48 git config --list
+  925  2025-02-14 14:30:56 cd ..
+  926  2025-02-14 14:31:00 l
+  927  2025-02-14 14:31:12 md test.commend
+  928  2025-02-13 17:44:14 ll
+  929  2025-02-13 17:44:15 l
+  930  2025-02-13 17:44:17 la
+  931  2025-02-13 17:44:20 cd ..
+  932  2025-02-13 17:44:21 la
+  933  2025-02-13 17:44:38 md test100M
+  934  2025-02-13 17:45:46 du -ah | sort -n
+  935  2025-02-13 17:46:25 du -sh
+  936  2025-02-13 17:46:41 du -sh ./* | sort -n
+  937  2025-02-13 17:46:47 cd ..
+  938  2025-02-13 17:46:50 du -sh ./* | sort -n
+  939  2025-02-13 17:47:09 cd 01.KeyProcessFiles-UploadGitHub/
+  940  2025-02-13 17:47:12 du -sh ./* | sort -n
+  941  2025-02-13 17:47:21 cd ../data/
+  942  2025-02-13 17:47:22 l
+  943  2025-02-13 17:47:27 la
+  944  2025-02-13 17:47:37 cd ..
+  945  2025-02-13 17:47:46 rm -r test
+  946  2025-02-13 17:48:11 rm -rf test
+  947  2025-02-13 17:48:13 la
+  948  2025-02-13 17:48:19 du -sh ./* | sort -n
+  949  2025-02-13 17:48:42 cd 01.KeyProcessFiles-UploadGitHub/
+  950  2025-02-13 17:48:43 la
+  951  2025-02-13 17:48:47 cd SNPMatrix/
+  952  2025-02-13 17:48:49 la
+  953  2025-02-13 17:48:51 ll
+  954  2025-02-13 17:49:03 la
+  955  2025-02-13 18:12:16 ll
+  956  2025-02-14 14:48:20 git init
+  957  2025-02-14 14:48:25 la
+  958  2025-02-14 14:49:03 l
+  959  2025-02-14 14:49:06 ll
+  960  2025-02-14 14:49:49 git add ./love.R
+  961  2025-02-14 14:49:51 ll
+  962  2025-02-14 14:50:15 git status
+  963  2025-02-14 14:50:34 training file
+  964  2025-02-14 14:51:36 git ls-files
+  965  2025-02-14 15:00:46 git commit -m "love.R"
+  966  2025-02-14 15:01:27 git remote add origin git@github.com:sxklp/git_commend.git
+  967  2025-02-14 15:02:05 git push origin master
+  968  2025-02-14 15:02:45 mkdir love
+  969  2025-02-14 15:02:47 l
+  970  2025-02-14 15:03:02 git push
+  971  2025-02-14 15:06:24 git commit -m "文件名"
+  972  2025-02-14 15:06:39 git commit -m "love.R"
+  973  2025-02-14 15:06:57 git add love.R
+  974  2025-02-14 15:06:59 l
+  975  2025-02-14 15:07:05 git commit -m "love.R"
+  976  2025-02-14 15:07:12 git push
+  977  2025-02-14 15:07:58 git commit -m "elaina.R"
+  978  2025-02-14 15:08:06 git add "elaina.R"
+  979  2025-02-14 15:08:16 git commit -m "elaina.R"
+  980  2025-02-14 15:08:21 git push
+  981  2025-02-14 15:08:51 git add "./love"
+  982  2025-02-14 15:09:05 git commit -m "./love"
+  983  2025-02-14 15:11:15 git add .
+  984  2025-02-14 15:12:11 git commit -m "./love"
+  985  2025-02-14 15:12:22 git push
+  986  2025-02-14 15:16:55 la
+  987  2025-02-14 15:17:03 cd ..
+  988  2025-02-14 15:17:05 cd 01.KeyProcessFiles-UploadGitHub/
+  989  2025-02-14 15:17:06 la
+  990  2025-02-14 15:17:10 cd SNPMatrix/
+  991  2025-02-14 15:17:11 la
+  992  2025-02-14 15:17:22 rm -rf .git/
+  993  2025-02-14 15:17:29 la
+  994  2025-02-14 15:17:31 cd .
+  995  2025-02-14 15:17:36 cd ..
+  996  2025-02-14 15:17:37 la
+  997  2025-02-14 14:32:43 cd ~/.ssh
+  998  2025-02-14 14:32:45 l
+  999  2025-02-14 14:40:37 ssh -T git@github.com
+ 1000  2025-02-14 14:41:33 ssh -T naikew@admin
+ 1001  2025-02-14 16:43:22 cd ~
+ 1002  2025-02-14 16:43:27 la
+ 1003  2025-02-14 16:44:34 l
+ 1004  2025-02-14 16:44:41 cd 14.git_transfer/
+ 1005  2025-02-14 16:44:42 l
+ 1006  2025-02-14 16:44:45 cd 01.KeyProcessFiles-UploadGitHub/
+ 1007  2025-02-14 16:44:46 l
+ 1008  2025-02-14 16:46:50 cd ..
+ 1009  2025-02-14 16:46:51 l
+ 1010  2025-02-14 16:46:58 cd test.commend/
+ 1011  2025-02-14 16:47:05 mklog 100
